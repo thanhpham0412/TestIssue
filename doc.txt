@@ -1,4 +1,2 @@
 resolve bugs
 
-add data validation
-update
